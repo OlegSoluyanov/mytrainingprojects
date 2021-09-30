@@ -1,6 +1,5 @@
-# trainingprojects
-
-My **Yandex.Praktikum** student projects
+# trainingprojects **Yandex.Praktikum course**
+![image](https://user-images.githubusercontent.com/89856075/135472088-eae7f531-975e-441e-92a1-f2928c2801ed.png)
 
 | **Project** | **Description** | **Packages & Modules**|
 |----------------|:---------:|----------------:|
